@@ -1,19 +1,19 @@
 # Curriculum Vitae 
+![length=50px](mypic.jpeg)
 ## Personal Info
 - Full Name: Adriam Gaspar Paz Sánchez
 - Nationality: Spanish
 - Birth Date: 15/12/2004
 ## Education
 - ##### Highschool: IES Antonio Fraguas
-- ##### College: FIC
+- ##### College: [FIC](https://www.fic.udc.es/)
     + Currently Studying a Degree on Computer Engineering
     + Relevant courses:
         + Discrete Mathematics
         + Calculus
         + Bussiness Manadgement and Administration
 - ##### Trade School: IES San Clemente
-    + Currently Studying a Degree on Multiplatform App Development
-    + Active member of the club
+    + Currently Studying a [Degree on Multiplatform App Development](https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-superior-desenvolvemento-de-aplicacions-multiplataforma/)
 - ##### Other courses
     + Introduction to AI
     + Introduction to Shopify
